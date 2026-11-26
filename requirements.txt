@@ -1,0 +1,4 @@
+flask
+pg8000
+werkzeug
+gunicorn
